@@ -3,7 +3,7 @@
 ## Warning
 
 This build was released under the guise of early support, so this OS will be updated gradually,
-For all the details contact Telegram @ever1cxllarRM
+For all the details contact Telegram @iplaton12
 
 ## Installation
 
@@ -22,7 +22,11 @@ For all the details contact Telegram @ever1cxllarRM
 ## Внимание
 
 Эта сборка была выпущена под видом ранней поддержки, поэтому эта ОС будет обновляться постепенно,
-за всеми подробностями обращайтесь в Telegram @ever1cxllarRM
+за всеми подробностями обращайтесь в Telegram @iplaton12
+
+## Примечание
+
+Выход версии OS1.9.0.0 ожидается весной 2025 года, следите за обновлениями в [Telegram](https://t.me/AcronixOS)
 
 ## Установка
 
