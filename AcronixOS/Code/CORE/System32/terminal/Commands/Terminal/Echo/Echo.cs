@@ -7,7 +7,7 @@ namespace AcronixOS.Code.CORE.terminal.Commands
         public Echo()
         {
             this.Name = "ECHO";
-            this.Help = "Prints a line of input";
+            this.Help = "Prints a line of input. For example: ECHO Goida! ";
         }
 
         public override void Execute(string line, string[] args)
