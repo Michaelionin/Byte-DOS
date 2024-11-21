@@ -9,16 +9,16 @@ namespace AcronixOS.Code.CORE.System32.langs
     class en_US
     {
         // TERMINAL
-        public static String Command_Not_Found = "Command not found. Enter help for list of commands";
+        public static String Command_Not_Found = "Incorrect command! Are you an idiot? ";
         public static String Help_Nect_Page = "Press \"Y\" to see the following list of commands";
-        public static String Invalid_Arguments = "Invalid argument!";
-        public static String Missing_Arguments = "Missing arguments!";
+        public static String Invalid_Arguments = "Invalid argument! Are you an idiot?  ";
+        public static String Missing_Arguments = "Missing arguments! Are you an idiot? ";
 
         // FileSystem
         public static String Attempting_Delete = "Attempting to delete";
         public static String Get_File_Info = "Error occured when trying to retrieve file info";
         public static String Not_Locate_File = "Could not locate file";
-        public static String Not_Locate_Directory = "Could not locate directory";
+        public static String Not_Locate_Directory = "Could not locate directory. Are you an idiot?  ";
         public static String MKDir_successfully = "Successfully created directory";
         public static String RMDir_successfully = "Successfully deleted directory";
         public static String CFile_successfully = "Successfully created file";
@@ -38,14 +38,14 @@ namespace AcronixOS.Code.CORE.System32.langs
 
         // Network 
 
-        public static String Network_Card_not_detected = "There are no usable network devices installed in the system!";
+        public static String Network_Card_not_detected = "There are no usable network devices installed in the system! Are you an idiot? ";
 
         public static String Host_Get_IP = "Getting ip address of {0}...";
         public static String Host_Output_IP = "{0}'s ip address is: {1}";
 
         public static String Ping_IPv4_addresses = "Pinging \" {0} \"...";
         public static String Ping_Response_Time = "Response recieved in {0} millisecond(s)";
-        public static String Ping_Failed = "Ping failed";
+        public static String Ping_Failed = "Ping failed. Are you an idiot? ";
         public static String Ping_Successful = "Success rate: {0} percent. ({1}/ 4)";
 
     }
